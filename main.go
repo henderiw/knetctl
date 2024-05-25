@@ -23,8 +23,8 @@ import (
 	"os"
 	"os/signal"
 
+	"github.com/henderiw/knetctl/commands"
 	"github.com/henderiw/logger/log"
-	"github.com/kubenet-dev/knetctl/commands"
 )
 
 func main() {

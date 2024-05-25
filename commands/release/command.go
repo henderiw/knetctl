@@ -29,7 +29,7 @@ import (
 
 	//docs "github.com/pkgserver-dev/pkgserver/internal/docs/generated/initdocs"
 
-	"github.com/kubenet-dev/knetctl/api/release"
+	"github.com/henderiw/knetctl/api/release"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
 

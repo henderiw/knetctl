@@ -26,7 +26,7 @@ vet: ## Run go vet against code.
 
 .PHONY: all
 all: fmt vet ## Build manager binary.
-	go build -ldflags "-X github.com/kubenet-dev/knetctl/commands/commands.version=${GIT_COMMIT}" -o $(LOCALBIN)/knetctl -v main.go
+	go build -ldflags "-X github.com/henderiw/knetctl/commands/commands.version=${GIT_COMMIT}" -o $(LOCALBIN)/knetctl -v main.go
 
 ##@ Build Dependencies
 

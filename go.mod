@@ -1,4 +1,4 @@
-module github.com/kubenet-dev/knetctl
+module github.com/henderiw/knetctl
 
 go 1.22.2
 

@@ -34,8 +34,8 @@ var (
 )
 
 const (
-	repoUrl     = "https://github.com/kubenet-dev/knetctl"
-	downloadURL = "https://github.com/kubenet-dev/knetctl/raw/main/install.sh"
+	repoUrl     = "https://github.com/henderiw/knetctl"
+	downloadURL = "https://github.com/henderiw/knetctl/raw/main/install.sh"
 )
 
 func NewVersionCommand(ctx context.Context) *cobra.Command {

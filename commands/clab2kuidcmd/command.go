@@ -23,7 +23,7 @@ import (
 
 	//docs "github.com/pkgserver-dev/pkgserver/internal/docs/generated/initdocs"
 
-	"github.com/kubenet-dev/knetctl/pkg/clab"
+	"github.com/henderiw/knetctl/pkg/clab"
 	infrav1alpha1 "github.com/kuidio/kuid/apis/backend/infra/v1alpha1"
 	"github.com/pkgserver-dev/pkgserver/pkg/client"
 	"github.com/spf13/cobra"

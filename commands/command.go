@@ -24,8 +24,8 @@ import (
 	"path/filepath"
 
 	"github.com/adrg/xdg"
-	"github.com/kubenet-dev/knetctl/commands/clab2kuidcmd"
-	"github.com/kubenet-dev/knetctl/commands/release"
+	"github.com/henderiw/knetctl/commands/clab2kuidcmd"
+	"github.com/henderiw/knetctl/commands/release"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 	"k8s.io/cli-runtime/pkg/genericclioptions"
