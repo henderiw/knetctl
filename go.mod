@@ -5,7 +5,7 @@ go 1.22.2
 require (
 	github.com/adrg/xdg v0.4.0
 	github.com/henderiw/logger v0.0.0-20230911123436-8655829b1abe
-	github.com/kuidio/kuid v0.0.2-0.20240518182536-a51a0cad3ba3
+	github.com/kuidio/kuid v0.0.4
 	github.com/pkg/errors v0.9.1
 	github.com/pkgserver-dev/pkgserver v0.0.4
 	github.com/spf13/cobra v1.8.0
